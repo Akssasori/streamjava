@@ -1,0 +1,10 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8Öºñ/
+^
+java:S1128"<Remove this unused import 'br.com.stream.model.Funcionario'.(‘¦”Ïÿÿÿÿÿ8×ºñ/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8×ºñ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Øºñ/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Øºñ/
